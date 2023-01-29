@@ -12,8 +12,8 @@ body {
     background: linear-gradient(to bottom, lightblue, darkblue);
 }
 .container {
-    width: 800px;
-    height: 500px;
+    width: 600px;
+    height: 400px;
 }
 #canvas1 {
     cursor: pointer;
